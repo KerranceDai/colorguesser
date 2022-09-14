@@ -1,0 +1,17 @@
+D:\Users\Ryota\Programming\Projects\colorguesser\bin\Debug\net6.0-windows\colorguesser.exe
+D:\Users\Ryota\Programming\Projects\colorguesser\bin\Debug\net6.0-windows\colorguesser.deps.json
+D:\Users\Ryota\Programming\Projects\colorguesser\bin\Debug\net6.0-windows\colorguesser.runtimeconfig.json
+D:\Users\Ryota\Programming\Projects\colorguesser\bin\Debug\net6.0-windows\colorguesser.dll
+D:\Users\Ryota\Programming\Projects\colorguesser\bin\Debug\net6.0-windows\colorguesser.pdb
+D:\Users\Ryota\Programming\Projects\colorguesser\obj\Debug\net6.0-windows\colorguesser.csproj.AssemblyReference.cache
+D:\Users\Ryota\Programming\Projects\colorguesser\obj\Debug\net6.0-windows\colorguesser.Form1.resources
+D:\Users\Ryota\Programming\Projects\colorguesser\obj\Debug\net6.0-windows\colorguesser.csproj.GenerateResource.cache
+D:\Users\Ryota\Programming\Projects\colorguesser\obj\Debug\net6.0-windows\colorguesser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ryota\Programming\Projects\colorguesser\obj\Debug\net6.0-windows\colorguesser.AssemblyInfoInputs.cache
+D:\Users\Ryota\Programming\Projects\colorguesser\obj\Debug\net6.0-windows\colorguesser.AssemblyInfo.cs
+D:\Users\Ryota\Programming\Projects\colorguesser\obj\Debug\net6.0-windows\colorguesser.csproj.CoreCompileInputs.cache
+D:\Users\Ryota\Programming\Projects\colorguesser\obj\Debug\net6.0-windows\colorguesser.dll
+D:\Users\Ryota\Programming\Projects\colorguesser\obj\Debug\net6.0-windows\refint\colorguesser.dll
+D:\Users\Ryota\Programming\Projects\colorguesser\obj\Debug\net6.0-windows\colorguesser.pdb
+D:\Users\Ryota\Programming\Projects\colorguesser\obj\Debug\net6.0-windows\colorguesser.genruntimeconfig.cache
+D:\Users\Ryota\Programming\Projects\colorguesser\obj\Debug\net6.0-windows\ref\colorguesser.dll

@@ -1,0 +1,5 @@
+D:\Users\Ryota\Programming\Projects\colorguesser\bin\Release\net6.0-windows\publish\colorguesser.exe
+D:\Users\Ryota\Programming\Projects\colorguesser\bin\Release\net6.0-windows\publish\colorguesser.dll
+D:\Users\Ryota\Programming\Projects\colorguesser\bin\Release\net6.0-windows\publish\colorguesser.deps.json
+D:\Users\Ryota\Programming\Projects\colorguesser\bin\Release\net6.0-windows\publish\colorguesser.runtimeconfig.json
+D:\Users\Ryota\Programming\Projects\colorguesser\bin\Release\net6.0-windows\publish\colorguesser.pdb
